@@ -1,13 +1,11 @@
-# Hi, I'm Youssef 👋
+# Youssef Agharmine
 
-**Network security × AI.** I help SOC teams see what firewalls and EDR miss —
-15+ years in network security, now building agents that read the wire.
+Fifteen years in network security, most of it helping SOC teams see what firewalls and EDR miss. These days I build agents that read the wire.
 
-- 🔍 Current work: **[agentic-zeek-soc](https://github.com/youssoun/agentic-zeek-soc)** —
-  an investigation agent over Zeek telemetry (conn/dns/tls → parquet → LLM with tools → investigation note)
-- 🧠 Thesis: *the cheapest token is the one you never spend* — structured wire telemetry
-  is the most token-efficient evidence an AI SOC can read
-- 🛰 Community: co-organizer of **Defender Day** (Paris) — Zeek & network fingerprinting with the Zeek core team
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/youssefagharmine/)
+Current work: agentic-zeek-soc. Zeek telemetry in (conn, dns, tls), a small investigation agent with three tools, an investigation note out. First scenario: DNS beaconing. Runs without any API key, public datasets only.
 
-> Agents don't fix bad signal — they invoice it.
+My working thesis: the cheapest token is the one you never spend. Structured wire telemetry is the most token-efficient evidence an AI SOC can read — and most of the compute bill in agentic SOCs is really a data-quality bill.
+
+I also co-organize Defender Day in Paris, on Zeek and network fingerprinting with the Zeek core team.
+
+Find me on LinkedIn: https://www.linkedin.com/in/youssefagharmine
