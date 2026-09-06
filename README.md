@@ -7,7 +7,7 @@
   an investigation agent over Zeek telemetry (conn/dns/tls → parquet → LLM with tools → investigation note)
 - 🧠 Thesis: *the cheapest token is the one you never spend* — structured wire telemetry
   is the most token-efficient evidence an AI SOC can read
-- 🛰 Community: co-organizer of the **Defender Day Corelight** (Paris, Zeek 9.0, network fingerprinting)
+- 🛰 Community: co-organizer of **Defender Day** (Paris) — Zeek & network fingerprinting with the Zeek core team
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/youssefagharmine/)
 
 > Agents don't fix bad signal — they invoice it.
